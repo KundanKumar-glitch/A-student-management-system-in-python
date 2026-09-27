@@ -1,0 +1,17 @@
+Purpose of Student Management System
+
+The purpose of this project is to create a simple Student Management System using Python.
+
+This project allows users to:
+
+* Add student details
+* View student records
+* Search students using roll number
+* Update student information
+* Delete student records
+* View marks and CGPA
+* Manage basic attendance information
+
+This project is developed to practice Python programming concepts such as functions, lists, dictionaries, loops, conditional statements, and match-case.
+
+The project can be further improved by adding file handling, JSON/database storage, a graphical user interface, and advanced student result and attendance management.
